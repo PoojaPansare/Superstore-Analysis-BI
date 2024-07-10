@@ -28,10 +28,6 @@ Total Order Quantity by Ship Mode: Visualizes the quantity of orders shipped via
 Monthly Shipping by Category: A line chart illustrating shipping trends by category over the months.
 Overall Shipping Metrics: Summary of total shipping metrics including total orders, shipping cost, and delivery times.
 
-📁 Project Structure
-/dashboards: Contains the Power BI dashboard files.
-/data: Contains the raw data files used for analysis.
-/images: Contains images used in the README file.
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
