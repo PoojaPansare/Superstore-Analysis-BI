@@ -32,5 +32,5 @@ Overall Shipping Metrics: Summary of total shipping metrics including total orde
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 📧 Contact
-If you have any questions or suggestions, feel free to reach out!
+If you have any questions or suggestions, feel free to reach out!.
 
